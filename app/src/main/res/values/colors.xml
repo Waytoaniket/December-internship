@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#B3F5EE</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
+
+    <color name="colorPrimary">#B5E9E5</color>
+    <color name="colorPrimaryDark">#3A7A74</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="textColor">#121212</color>
+    <color name="buttonBackground">#FF756D</color>
+
+    <color name="progress_bar">#FC5353</color>
+    <color name="secondary_progress_bar">#CDF5F0</color>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/Highlight_date"
+    android:clickable="true"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/highlight_date">
+    <TextView
+        android:id="@+id/To_date"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="10dp"
+        android:text="12 DEC 2019"
+        android:paddingStart="20dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#141111"
+
+        />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="5sp"
+        android:layout_marginBottom="5dp"
+        android:text="-"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#141111"
+
+
+        />
+
+    <TextView
+        android:id="@+id/From_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5sp"
+        android:layout_marginBottom="5dp"
+        android:text="12 DEC 2019"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#141111"
+        android:paddingEnd="20dp"
+        android:layout_marginEnd="10dp"
+
+        />
+
+
+
+</LinearLayout>
